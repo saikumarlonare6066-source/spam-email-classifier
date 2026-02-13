@@ -13,7 +13,7 @@ simple and beginner friendly
 
 
 ##simple python program for identifying spam email:
-program:
+##program:
 # List of common spam words:
 spam_words = [
     "win", "free", "money", "cash", "prize",
@@ -35,6 +35,10 @@ if spam_score > 0:
     print("This message is SPAM")
 else:
     print("This message is NOT SPAM")
+
+    output:
+    enter your email message:Congratulations! You win free money now!
+this is spam messege
 
 
     #Saikumar lonare
